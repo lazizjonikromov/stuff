@@ -11,13 +11,13 @@ const Products = ({ title, style = {}, products = [], amount }) => {
 
       <div className={styles.list}>
         {list.map(({ id, images, title, category: { name: cat }, price }) => {
-          const parsedImages = JSON.parse(images);
+          // const parsedImages = JSON.parse(images);
 
           return (
             <Link to={`/products/${id}`} key={id} className={styles.product}>
               <div
                 className={styles.image}
-                style={{ backgroundImage: `url(${parsedImages[0]})` }}
+                style={{ backgroundImage: `url(${images[0]})` }}
               />
 
               <div className={styles.wrapper}>
