@@ -2,7 +2,7 @@
 
 ## Demo
 
-[View Demo](https://netlify.app)
+[View Demo](https://estuff.netlify.app)
 
 ## Features
 
