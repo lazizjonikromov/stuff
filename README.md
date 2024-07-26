@@ -1,8 +1,22 @@
-# React + Vite
+## STUFF | Ecommerce | Redux Toolkit | Fake API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Demo
 
-Currently, two official plugins are available:
+[View Demo](https://netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Auth (Login and Signup)
+- CRUD (GET, POST, UPDATE, DELETE with FAKE API)
+- User Dashboard
+- Cart
+- Checkout
+- Search Filter Products
+- Categories
+- Single Product Section
+- Folder Structure
+
+## Technologies
+
+- [React JS](https://reactjs.org)
+- [Redux Toolkit](https://react-redux.js.org)
